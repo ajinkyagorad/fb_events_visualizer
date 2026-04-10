@@ -32,10 +32,17 @@ function parseJsonEvents(jsonEvents: any[]): Event[] {
     const dateLine = item.date || item.time_text || '';
     
     let locationLine = '';
+    let street = '';
+    let city = '';
+    
     if (typeof item.location === 'string') {
       locationLine = item.location;
     } else if (item.location && item.location.query_string) {
       locationLine = item.location.query_string;
+      if (item.location.components) {
+        street = item.location.components.street || '';
+        city = item.location.components.city || '';
+      }
     }
     
     // Clean up title if it contains the dateLine or "Interested"
@@ -86,15 +93,29 @@ function parseJsonEvents(jsonEvents: any[]): Event[] {
     let lat = 60.1699;
     let lng = 24.9384;
     
+    // Try to match by query string first, then by street address
     const cleanLoc = locationLine.split(',')[0].trim();
+    const cleanStreet = street.split(',')[0].trim();
     const coordsMap = locationCoords as Record<string, {lat: number, lng: number}>;
     
-    if (coordsMap[cleanLoc]) {
+    let matchedCoords = coordsMap[cleanLoc] || coordsMap[cleanStreet];
+    
+    // Some manual overrides for common places that might not map perfectly
+    if (!matchedCoords) {
+      if (locationLine.includes('Kulttuuritalo')) matchedCoords = coordsMap['Kulttuuritalo'];
+      if (locationLine.includes('Tanssin talo')) matchedCoords = coordsMap['Tanssin talo'];
+      if (locationLine.includes('Oodi')) matchedCoords = { lat: 60.174, lng: 24.938 };
+      if (locationLine.includes('Finlandia-talo')) matchedCoords = { lat: 60.176, lng: 24.933 };
+      if (locationLine.includes('Musiikkitalo')) matchedCoords = { lat: 60.173, lng: 24.934 };
+      if (locationLine.includes('Kaapelitehdas') || locationLine.includes('Cable Factory')) matchedCoords = coordsMap['Cable Factory'];
+    }
+    
+    if (matchedCoords) {
       const hash = hashString(title);
       const latOffset = (Math.sin(hash) * 0.0002);
       const lngOffset = (Math.cos(hash) * 0.0002);
-      lat = coordsMap[cleanLoc].lat + latOffset;
-      lng = coordsMap[cleanLoc].lng + lngOffset;
+      lat = matchedCoords.lat + latOffset;
+      lng = matchedCoords.lng + lngOffset;
     } else {
       const hash = hashString(locationLine || title);
       const norm1 = Math.abs(Math.sin(hash));
