@@ -1,0 +1,534 @@
+{
+  "Meilahden kartano": {
+    "lat": 60.1915232,
+    "lng": 24.8839266
+  },
+  "Lapinlahdenpolku 8": {
+    "lat": 60.1677971,
+    "lng": 24.9134678
+  },
+  "Uudenmaankatu 33": {
+    "lat": 60.1629737,
+    "lng": 24.9361875
+  },
+  "Kustaankatu 3": {
+    "lat": 60.1877744,
+    "lng": 24.9563506
+  },
+  "Turunlinnantie 1": {
+    "lat": 60.2098837,
+    "lng": 25.0769668
+  },
+  "Kompassitori": {
+    "lat": 60.1552282,
+    "lng": 24.950661
+  },
+  "Hyväntoivonkatu 5": {
+    "lat": 60.1558244,
+    "lng": 24.9172518
+  },
+  "Siilitie 18c": {
+    "lat": 60.2085966,
+    "lng": 25.0411998
+  },
+  "Konepajanpasaasi": {
+    "lat": 60.1933093,
+    "lng": 24.9449758
+  },
+  "Malmitalo": {
+    "lat": 60.2505382,
+    "lng": 25.014476
+  },
+  "Pasilan kirjasto": {
+    "lat": 60.2008379,
+    "lng": 24.935842
+  },
+  "Suomalaisen Kirjallisuuden Seura": {
+    "lat": 60.1702206,
+    "lng": 24.9560258
+  },
+  "TAVASTIA-klubi": {
+    "lat": 60.1685036,
+    "lng": 24.9329693
+  },
+  "Pirunkirkko": {
+    "lat": 60.1474263,
+    "lng": 24.9832003
+  },
+  "Stockmann": {
+    "lat": 60.1683005,
+    "lng": 24.9420834
+  },
+  "Telakkakatu 7": {
+    "lat": 60.1588358,
+    "lng": 24.9331173
+  },
+  "Koroistentie 6 A": {
+    "lat": 60.2007565,
+    "lng": 24.902005
+  },
+  "Mäkelänkatu 56": {
+    "lat": 60.1971175,
+    "lng": 24.9500316
+  },
+  "Kallion kirjasto": {
+    "lat": 60.1836068,
+    "lng": 24.953627
+  },
+  "Iso Roobertinkatu 3-5": {
+    "lat": 60.164067,
+    "lng": 24.9432292
+  },
+  "Bar Loose": {
+    "lat": 60.1666872,
+    "lng": 24.9374004
+  },
+  "Viides linja 11": {
+    "lat": 60.1836068,
+    "lng": 24.953627
+  },
+  "Malminkatu 3": {
+    "lat": 60.1682281,
+    "lng": 24.9257656
+  },
+  "Magito Studio": {
+    "lat": 60.1869474,
+    "lng": 24.973765
+  },
+  "Pohjoinen Hesperiankatu 7": {
+    "lat": 60.1777485,
+    "lng": 24.9269236
+  },
+  "Klaneettitie 5": {
+    "lat": 60.2388282,
+    "lng": 24.8761733
+  },
+  "Lintulahdenkatu 3": {
+    "lat": 60.1839947,
+    "lng": 24.9611132
+  },
+  "Museokatu 10": {
+    "lat": 60.1740595,
+    "lng": 24.9315706
+  },
+  "Teollisuuskatu 16": {
+    "lat": 60.1927817,
+    "lng": 24.9481093
+  },
+  "Karjalankatu 2 A": {
+    "lat": 60.1929991,
+    "lng": 24.9365433
+  },
+  "Korjaamo": {
+    "lat": 60.1872152,
+    "lng": 24.9649946
+  },
+  "Länsisatamankatu 18": {
+    "lat": 60.1589099,
+    "lng": 24.9103956
+  },
+  "Helsingin Kaupunginteatteri": {
+    "lat": 60.1817633,
+    "lng": 24.9433936
+  },
+  "Heikkiläntie 2": {
+    "lat": 60.1543811,
+    "lng": 24.8795558
+  },
+  "Lepakkomies": {
+    "lat": 60.1877247,
+    "lng": 24.959656
+  },
+  "Petter Wetterin tie": {
+    "lat": 60.1925597,
+    "lng": 25.0316254
+  },
+  "Pohjois-Haagan kirjasto": {
+    "lat": 60.2325003,
+    "lng": 24.8874551
+  },
+  "Vuosaaren kirjasto": {
+    "lat": 60.2088023,
+    "lng": 25.1435848
+  },
+  "Ateneuminkuja 2": {
+    "lat": 60.1697869,
+    "lng": 24.9441473
+  },
+  "Haapaniemenkatu 6": {
+    "lat": 60.1814467,
+    "lng": 24.9592978
+  },
+  "Aleksanterinkatu 28": {
+    "lat": 60.1687733,
+    "lng": 24.9513739
+  },
+  "Molly Malone's Helsinki": {
+    "lat": 60.1708577,
+    "lng": 24.9461999
+  },
+  "Kristianinkatu 16": {
+    "lat": 60.1754988,
+    "lng": 24.9554049
+  },
+  "FÖÖNI": {
+    "lat": 60.1877422,
+    "lng": 24.9780554
+  },
+  "Myllypuron kirjasto": {
+    "lat": 60.2241485,
+    "lng": 25.0731173
+  },
+  "Intiankatu 28": {
+    "lat": 60.208228,
+    "lng": 24.9648815
+  },
+  "Paasivaarankatu 6": {
+    "lat": 60.190763,
+    "lng": 25.0284746
+  },
+  "Cable Factory": {
+    "lat": 60.1618636,
+    "lng": 24.9051528
+  },
+  "Tapulikaupungin kirjasto": {
+    "lat": 60.2745782,
+    "lng": 25.0341292
+  },
+  "Rauhankatu 7": {
+    "lat": 60.1718931,
+    "lng": 24.9572707
+  },
+  "Myllypurontie 22": {
+    "lat": 60.2238492,
+    "lng": 25.0616427
+  },
+  "Fabianinkatu 6": {
+    "lat": 60.1663228,
+    "lng": 24.9494111
+  },
+  "Maunulan kirjasto": {
+    "lat": 60.2311911,
+    "lng": 24.933162
+  },
+  "Liszt-instituutti Helsinki": {
+    "lat": 60.1729422,
+    "lng": 24.9484867
+  },
+  "Jätkäsaaren kirjasto": {
+    "lat": 60.1599869,
+    "lng": 24.9208571
+  },
+  "Kalevankatu 16": {
+    "lat": 60.1664553,
+    "lng": 24.9366042
+  },
+  "Herttoniemen kirjasto": {
+    "lat": 60.1950787,
+    "lng": 25.0335278
+  },
+  "Yrjönkatu 22": {
+    "lat": 60.1670394,
+    "lng": 24.93989
+  },
+  "Mosaiikkitori": {
+    "lat": 60.2084181,
+    "lng": 25.1436073
+  },
+  "Puotilantie 3": {
+    "lat": 60.209103,
+    "lng": 25.1007954
+  },
+  "Unikkotie 8": {
+    "lat": 60.2451492,
+    "lng": 24.9906283
+  },
+  "Ruoholahdenranta 3 A": {
+    "lat": 60.1616613,
+    "lng": 24.9248792
+  },
+  "Oksasenkatu 11": {
+    "lat": 60.1762438,
+    "lng": 24.9231315
+  },
+  "Hämeentie 28": {
+    "lat": 60.1833166,
+    "lng": 24.9579523
+  },
+  "Eteläranta 12": {
+    "lat": 60.1658046,
+    "lng": 24.9523083
+  },
+  "Uudenmaankatu 23 F": {
+    "lat": 60.1644897,
+    "lng": 24.9408296
+  },
+  "Punkmuseo": {
+    "lat": 60.1696784,
+    "lng": 24.9315947
+  },
+  "Pasilan Asema-aukio 1 A": {
+    "lat": 60.1983157,
+    "lng": 24.9343518
+  },
+  "Hallituskatu 1": {
+    "lat": 60.1702206,
+    "lng": 24.9560258
+  },
+  "Konalantie 47 B": {
+    "lat": 60.2398667,
+    "lng": 24.8453696
+  },
+  "Oulunkylän kirjasto": {
+    "lat": 60.2281294,
+    "lng": 24.9625964
+  },
+  "Meritullin Seurakuntatalo": {
+    "lat": 60.1699098,
+    "lng": 24.9581957
+  },
+  "Malmin raitti 17 A": {
+    "lat": 60.2570053,
+    "lng": 25.0132741
+  },
+  "Jämsänkatu 2 C": {
+    "lat": 60.1958154,
+    "lng": 24.9437773
+  },
+  "Teollisuuskatu 9d": {
+    "lat": 60.1899262,
+    "lng": 24.9605487
+  },
+  "Viikintie 1 D": {
+    "lat": 60.2215969,
+    "lng": 25.0333594
+  },
+  "Kaisaniemenkatu 8": {
+    "lat": 60.1728057,
+    "lng": 24.9483963
+  },
+  "Uspenskin katedraali": {
+    "lat": 60.1684528,
+    "lng": 24.9599322
+  },
+  "Konepajanpasaasi 2": {
+    "lat": 60.1936733,
+    "lng": 24.9448217
+  },
+  "Postitalo": {
+    "lat": 60.1715482,
+    "lng": 24.9380103
+  },
+  "Kopernikuksentie 1": {
+    "lat": 60.1619776,
+    "lng": 24.9516832
+  },
+  "Fredrikinkatu 43": {
+    "lat": 60.1655667,
+    "lng": 24.9355353
+  },
+  "Rikhardinkadun kirjasto": {
+    "lat": 60.1662512,
+    "lng": 24.9462224
+  },
+  "Bulevardi 10": {
+    "lat": 60.165556,
+    "lng": 24.9409319
+  },
+  "Salomonkatu 21B": {
+    "lat": 60.169834,
+    "lng": 24.933052
+  },
+  "Dagmarinkatu 2": {
+    "lat": 60.1740932,
+    "lng": 24.9313004
+  },
+  "Antinkatu 3": {
+    "lat": 60.1699473,
+    "lng": 24.9317475
+  },
+  "Metsäpurontie 25": {
+    "lat": 60.2277753,
+    "lng": 24.9260433
+  },
+  "Koetilantie 1": {
+    "lat": 60.2239533,
+    "lng": 25.0149694
+  },
+  "Kaisaniemen Kasvitieteellinen Puutarha": {
+    "lat": 60.175223,
+    "lng": 24.9471498
+  },
+  "Puukoulu": {
+    "lat": 60.2303347,
+    "lng": 24.9580787
+  },
+  "Pyhän Sydämen Kappeli": {
+    "lat": 60.185589,
+    "lng": 24.9473902
+  },
+  "Stoa": {
+    "lat": 60.2119598,
+    "lng": 25.079189
+  },
+  "Siltavuorenranta 18": {
+    "lat": 60.175708,
+    "lng": 24.9509779
+  },
+  "Hämeentie 135": {
+    "lat": 60.2074474,
+    "lng": 24.975867
+  },
+  "Sturenkatu 4": {
+    "lat": 60.1883718,
+    "lng": 24.9440143
+  },
+  "Kinaporinkatu 5": {
+    "lat": 60.1885754,
+    "lng": 24.9616915
+  },
+  "Bruno Granholminkuja 3": {
+    "lat": 60.1934904,
+    "lng": 24.9482182
+  },
+  "Riihitie 22": {
+    "lat": 60.1968424,
+    "lng": 24.8758068
+  },
+  "Musiikkiteatteri Kapsäkki": {
+    "lat": 60.190423,
+    "lng": 24.9641698
+  },
+  "Kraken - Helsinki": {
+    "lat": 60.1696539,
+    "lng": 24.9260801
+  },
+  "Tukholmankatu 10": {
+    "lat": 60.1909175,
+    "lng": 24.9016593
+  },
+  "Asiakkaankatu 3": {
+    "lat": 60.2085406,
+    "lng": 25.0818836
+  },
+  "Etelä-Haagan kirjasto": {
+    "lat": 60.2138897,
+    "lng": 24.8917858
+  },
+  "Viikin kirjasto": {
+    "lat": 60.2275287,
+    "lng": 25.0130252
+  },
+  "El Ático Helsinki": {
+    "lat": 60.1963134,
+    "lng": 24.9410803
+  },
+  "Pursimiehenkatu 5": {
+    "lat": 60.1604875,
+    "lng": 24.940654
+  },
+  "Puistolan kirjasto": {
+    "lat": 60.271164,
+    "lng": 25.058815
+  },
+  "Suutarilan kirjasto": {
+    "lat": 60.2761212,
+    "lng": 25.0044556
+  },
+  "Kulttuuritalo": {
+    "lat": 60.1883718,
+    "lng": 24.9440143
+  },
+  "Itäinen Teatterikuja 3": {
+    "lat": 60.17255,
+    "lng": 24.9444862
+  },
+  "Pasilan Juna-Asema": {
+    "lat": 60.1986779,
+    "lng": 24.9334219
+  },
+  "Bulevardi": {
+    "lat": 60.1662519,
+    "lng": 24.9425587
+  },
+  "Topeliuksenkatu 1": {
+    "lat": 60.1795951,
+    "lng": 24.9228251
+  },
+  "Mikonkatu 8": {
+    "lat": 60.1693975,
+    "lng": 24.944957
+  },
+  "Semifinal": {
+    "lat": 60.1682571,
+    "lng": 24.9328535
+  },
+  "Tanssin talo": {
+    "lat": 60.1623614,
+    "lng": 24.9054323
+  },
+  "Konepajan Näyttämö": {
+    "lat": 60.1928012,
+    "lng": 24.9464476
+  },
+  "Paavalinkirkko": {
+    "lat": 60.1974335,
+    "lng": 24.9602634
+  },
+  "Helsinginkatu 58": {
+    "lat": 60.1818224,
+    "lng": 24.9304909
+  },
+  "Hämeentie 3": {
+    "lat": 60.1806797,
+    "lng": 24.9534891
+  },
+  "Musta Kissa": {
+    "lat": 60.1823697,
+    "lng": 24.9468228
+  },
+  "Mikonkatu 15": {
+    "lat": 60.1713394,
+    "lng": 24.9454997
+  },
+  "Georgsgatan 27": {
+    "lat": 60.1689811,
+    "lng": 24.9370402
+  },
+  "Vironkatu 7": {
+    "lat": 60.1724347,
+    "lng": 24.9551925
+  },
+  "Ala-Malmin tori 1": {
+    "lat": 60.2502645,
+    "lng": 25.0148191
+  },
+  "Muotoilijankatu 1 B": {
+    "lat": 60.2101561,
+    "lng": 24.9773382
+  },
+  "Luiskatie 8": {
+    "lat": 60.2547472,
+    "lng": 25.0685422
+  },
+  "Töölönkatu 51": {
+    "lat": 60.1840455,
+    "lng": 24.9206131
+  },
+  "B-Side Bar": {
+    "lat": 60.1901681,
+    "lng": 24.9722436
+  },
+  "Museokatu 8": {
+    "lat": 60.1738472,
+    "lng": 24.9321979
+  },
+  "Kaivokatu 6": {
+    "lat": 60.6340909,
+    "lng": 24.8476599
+  },
+  "Helsinki Dance Central": {
+    "lat": 60.187642,
+    "lng": 24.9691422
+  }
+}
